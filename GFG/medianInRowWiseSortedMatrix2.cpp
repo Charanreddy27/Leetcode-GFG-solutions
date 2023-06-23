@@ -1,21 +1,4 @@
-job-hiring-fab
-Problems
-CoursesSale
-Job-a-ThonMEGA
-Contests
-POTD
 
-Refresh
-
-Time (IST)	Status	Lang	Test Cases	Code
-2023-01-03 15:48:17	Correct	cpp	580 / 580	View
-C++ (g++ 5.4)
-
-
-
-
-Custom Input
-//User function template for C++
 
 class Solution{   
 public:
