@@ -12,7 +12,7 @@
 class Solution {
 public:
     int diameter(TreeNode* root , int &d){
-         if(root ==NULL) return 0;
+        if(root ==NULL) return 0;
         int lh = diameter(root->left,d);
         int rh = diameter(root->right,d);
         d = max(d, lh+rh);
